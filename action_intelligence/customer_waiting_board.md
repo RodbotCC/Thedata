@@ -1,0 +1,120 @@
+# Customer Waiting Board
+
+- Total customer-waiting tasks: `115`
+
+## Top Tasks
+- `120` | Nichole Cross | Nichole Cross | today | Sign the agreement and submit the deposit to secure the date.
+- `120` | Nichole Cross | Nichole Cross | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `119` | Ababa | Ababa | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `114` | Kristen | Kristen | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `109` | Meghan Pingeton | Meghan Pingeton | today | Sign the agreement and submit the deposit to secure the date.
+- `108` | Anastasia Friar | Anastasia Friar | today | Confirm whether you are attending the tasting and which date works.
+- `108` | Anastasia Friar | Anastasia Friar | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `108` | Cheryl Rank | Cheryl Rank | today | Confirm whether you are attending the tasting and which date works.
+- `108` | Cheryl Rank | Cheryl Rank | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `104` | Sue Tetuan Tavares | Sue Tetuan Tavares | 48h | Confirm the real budget ceiling and which service elements matter most.
+- `104` | Sue Tetuan Tavares | Sue Tetuan Tavares | 48h | Complete the outstanding stakeholder review and respond with a decision window.
+- `102` | Alessandra Gaspar | Alessandra Gaspar | 48h | Confirm whether you are attending the tasting and which date works.
+- `102` | Sabrina Oliveira | Sabrina Oliveira | 48h | Confirm whether you are attending the tasting and which date works.
+- `102` | Sabrina Oliveira | Sabrina Oliveira | 48h | Complete the outstanding stakeholder review and respond with a decision window.
+- `101` | Blessin Premy | Blessin Premy | 48h | Confirm whether you are attending the tasting and which date works.
+- `101` | Gleiziane Dias | Gleiziane Dias | 48h | Complete the outstanding stakeholder review and respond with a decision window.
+- `100` | Brooklyn whitmyer | Brooklyn whitmyer | 48h | Decide whether to stay with the venue package or continue with Comeketo.
+- `96` | Andreia DePina Moore | Andreia DePina Moore | 48h | Confirm whether you are attending the tasting and which date works.
+- `96` | Lazaro Silva | Lazaro Silva | 48h | Confirm whether you are attending the tasting and which date works.
+- `94` | Gillian Braley | Gillian Braley | 48h | Complete the outstanding stakeholder review and respond with a decision window.
+- `94` | Nicole Goncalves | Nicole Goncalves | 48h | Complete the outstanding stakeholder review and respond with a decision window.
+- `94` | Valmir Paschoal | Valmir Paschoal | 48h | Confirm final logistics, venue access, and headcount as the event approaches.
+- `94` | Glisel Cepeda Guilbe | Glisel Cepeda Guilbe | 48h | Sign the agreement and submit the deposit to secure the date.
+- `91` | Allison Caranci | Allison Caranci | 48h | Confirm whether you are attending the tasting and which date works.
+- `90` | Saeddien Mejia | Saeddien Mejia | 48h | Confirm whether you are attending the tasting and which date works.
+- `89` | Julia Soares | Julia Soares | 3d | Confirm whether you are attending the tasting and which date works.
+- `89` | Nicole Walker | Nicole Walker | 3d | Confirm whether you are attending the tasting and which date works.
+- `89` | Nicole Walker | Nicole Walker | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `89` | Rachel Sawyer | Rachel Sawyer | 3d | Confirm whether you are attending the tasting and which date works.
+- `89` | Rachel Sawyer | Rachel Sawyer | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `89` | Gicele Britto & David- Wedding | Gicele Britto & David- Wedding | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `88` | Moses Mugwanya | Moses Mugwanya | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `88` | Tais Riley | Tais Riley | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `88` | Sara Cleary-Rayball | Sara Cleary-Rayball | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `88` | Joy Newman | Joy Newman | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `88` | Sandy B | Sandy B | 3d | Confirm whether you are attending the tasting and which date works.
+- `88` | Sandy B | Sandy B | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `86` | Alexa Rodriguez | Alexa Rodriguez | 3d | Confirm whether you are attending the tasting and which date works.
+- `86` | Alexa Rodriguez | Alexa Rodriguez | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `86` | Rebecca Almeida | Rebecca Almeida | 3d | Confirm whether you are attending the tasting and which date works.
+- `86` | Rebecca Almeida | Rebecca Almeida | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `83` | Ashley Hoeger | Ashley Hoeger | 3d | Confirm whether you are attending the tasting and which date works.
+- `83` | Osilene - Gisele Decorations | Osilene - Gisele Decorations | 3d | Confirm whether you are attending the tasting and which date works.
+- `83` | Hannah Goguen | Hannah Goguen | 3d | Confirm whether you are attending the tasting and which date works.
+- `83` | Dalcione Reis | Dalcione Reis | 3d | Confirm whether you are attending the tasting and which date works.
+- `83` | Dalcione Reis | Dalcione Reis | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `83` | Rick Kardos (Trinity Bible Church) | Rick Kardos (Trinity Bible Church) | 3d | Sign the agreement and submit the deposit to secure the date.
+- `83` | Rick Kardos (Trinity Bible Church) | Rick Kardos (Trinity Bible Church) | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `82` | José Pérez Cardona | José Pérez Cardona | 3d | Confirm final logistics, venue access, and headcount as the event approaches.
+- `81` | WeddingPro - Patrick | WeddingPro - Patrick | 3d | Confirm the real budget ceiling and which service elements matter most.
+- `80` | Ingrid - Brazilian | Ingrid - Brazilian | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `80` | Jeanine Oliveira | Jeanine Oliveira | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `79` | Makenzie & Ronald | Makenzie & Ronald | 3d | Sign the agreement and submit the deposit to secure the date.
+- `79` | Makenzie & Ronald | Makenzie & Ronald | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `79` | Vickianna Alexis- Wedding planner | Vickianna Alexis- Wedding planner | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `79` | Vickianna Alexis- Wedding planner | Vickianna Alexis- Wedding planner | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `79` | Stone Garden | Stone Garden | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `78` | Sylvia | Sylvia | today | Confirm the real budget ceiling and which service elements matter most.
+- `78` | Sylvia | Sylvia | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `76` | LIA + TEAM @ DIVINE STONE WORKS | LIA + TEAM @ DIVINE STONE WORKS | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Miguel Lopez Rivera | Miguel Lopez Rivera | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Iaponira DaSilva | Iaponira DaSilva | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Carey Guenzel Galasso | Carey Guenzel Galasso | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Carey Guenzel Galasso | Carey Guenzel Galasso | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `76` | Nicole Gilford & Richard Desharnais | Nicole Gilford & Richard Desharnais | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Rachael Corbitt | Rachael Corbitt | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Elizabeth Comtois | Elizabeth Comtois | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Ketsia Leroy | Ketsia Leroy | 3d | Confirm whether you are attending the tasting and which date works.
+- `76` | Glenn Celado & Eloida | Glenn Celado & Eloida | 3d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `76` | Glenn Celado & Eloida | Glenn Celado & Eloida | 3d | Complete the outstanding stakeholder review and respond with a decision window.
+- `76` | Yuderka Fernandez | Yuderka Fernandez | today | Confirm the venue choice and whether outside catering is allowed.
+- `76` | Yuderka Fernandez | Yuderka Fernandez | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `76` | Karine Carlson | Karine Carlson | today | Confirm the venue choice and whether outside catering is allowed.
+- `76` | Karine Carlson | Karine Carlson | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `76` | John Carlos Orellano- DJ | John Carlos Orellano- DJ | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `75` | Greylock Works | Greylock Works | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `74` | Mariah Gerstel | Mariah Gerstel | 7d | Sign the agreement and submit the deposit to secure the date.
+- `74` | Mariah Gerstel | Mariah Gerstel | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `73` | Luciane Sena | Luciane Sena | 7d | Sign the agreement and submit the deposit to secure the date.
+- `73` | Luciane Sena | Luciane Sena | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `73` | Lisa Emond | Lisa Emond | 7d | Sign the agreement and submit the deposit to secure the date.
+- `73` | Lisa Emond | Lisa Emond | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `71` | Kristen Rodriguez | Kristen Rodriguez | 7d | Sign the agreement and submit the deposit to secure the date.
+- `71` | Cyprian Odeke | Cyprian Odeke | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `71` | Cyprian Odeke | Cyprian Odeke | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `70` | Gisele Decorations and Events | Gisele Decorations and Events | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `69` | Cee Cedeño | Cee Cedeño | 7d | Sign the agreement and submit the deposit to secure the date.
+- `69` | Cee Cedeño | Cee Cedeño | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `68` | Dulce Almeida | Dulce Almeida | 7d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `68` | Dulce Almeida | Dulce Almeida | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `68` | Andressa | Andressa | 7d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `68` | Andressa | Andressa | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `68` | Lauren Paine | Lauren Paine | 7d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `68` | Lauren Paine | Lauren Paine | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `68` | Gianna DeFusco | Gianna DeFusco | 7d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `68` | Gianna DeFusco | Gianna DeFusco | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `67` | Debora Lopes | Debora Lopes | 7d | Sign the agreement and submit the deposit to secure the date.
+- `67` | Debora Lopes | Debora Lopes | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `65` | Julianna Leiva | Julianna Leiva | 7d | Sign the agreement and submit the deposit to secure the date.
+- `65` | Elise Lamoreaux | Elise Lamoreaux | 7d | Sign the agreement and submit the deposit to secure the date.
+- `65` | Elise Lamoreaux | Elise Lamoreaux | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `65` | Marcelo- Irmao Erlon | Marcelo- Irmao Erlon | 7d | Sign the agreement and submit the deposit to secure the date.
+- `65` | Ana Claudia | Ana Claudia | 7d | Sign the agreement and submit the deposit to secure the date.
+- `64` | Matthew Yorko | Matthew Yorko | 7d | Decide whether to stay with the venue package or continue with Comeketo.
+- `64` | Matthew Yorko | Matthew Yorko | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `64` | Sara Melanson | Sara Melanson | 7d | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `64` | Sara Melanson | Sara Melanson | 7d | Complete the outstanding stakeholder review and respond with a decision window.
+- `64` | Viewpoint Venue- Tuanny | Viewpoint Venue- Tuanny | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `58` | Paul | Paul | today | Review the proposal with the actual decision-maker and reply with a decision deadline.
+- `58` | Paul | Paul | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `46` | Susan Byrnes Withemi | Susan Byrnes Withemi | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `46` | Susan Byrnes Withemi | Susan Byrnes Withemi | today | Complete the outstanding stakeholder review and respond with a decision window.
+- `35` | Kassio | Kassio | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `33` | New England Church - Pastor Leandro Pastor Rafael | New England Church - Pastor Leandro Pastor Rafael | today | Confirm final logistics, venue access, and headcount as the event approaches.
+- `33` | New England Church - Pastor Leandro Pastor Rafael | New England Church - Pastor Leandro Pastor Rafael | today | Complete the outstanding stakeholder review and respond with a decision window.

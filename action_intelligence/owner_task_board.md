@@ -1,0 +1,125 @@
+# Owner Task Board
+
+- Total sales-owned tasks: `128`
+
+## Top Tasks
+- `120` | Nichole Cross | Event Consultant | today | Confirm contract/deposit timing with the client and close the booking step.
+- `119` | Ababa | Sales Team Event Consultant Team | today | Send or revise the quote and ask for a concrete yes/no next step.
+- `114` | Kristen | Sales Team Event Consultant Team | today | Send or revise the quote and ask for a concrete yes/no next step.
+- `109` | Meghan Pingeton | Andre Raw | today | Confirm contract/deposit timing with the client and close the booking step.
+- `109` | Sue Tetuan Tavares | Andre Raw | today | Confirm whether the guest count / scope works and whether pricing changes.
+- `108` | Anastasia Friar | Sales Team Event Consultant Team | today | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `108` | Cheryl Rank | Andre Raw | today | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `104` | Sue Tetuan Tavares | Andre Raw | 48h | Rescope the package and send a lower-cost path that still works for the event.
+- `104` | Efua Bondzie | Sales Team Event Consultant Team | today | Fulfill the promised tasting-details follow-up.
+- `102` | Alessandra Gaspar | Andre Raw | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `102` | Sabrina Oliveira | Rhonna Ricafort | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `101` | Blessin Premy | Sales Team Event Consultant Team | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `101` | Gleiziane Dias | Andre Raw | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `101` | Mayara Morgana Silva | Andre Raw | today | Continue normal follow-up with the next milestone in mind.
+- `100` | Efua Bondzie | Sales Team Event Consultant Team | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `100` | Brooklyn whitmyer | Sales Team Event Consultant Team | 48h | Clarify whether the venue allows outside catering and whether Comeketo can still stay in play.
+- `96` | Andreia DePina Moore | Andre Raw | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `96` | Lazaro Silva | Andre Raw | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `95` | Pascale Cadet | Event Consultant | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `94` | Gillian Braley | Sales Team Event Consultant Team | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `94` | Yara Avalos | Eduarda Fedrizzi | 48h | Continue normal follow-up with the next milestone in mind.
+- `94` | Nicole Goncalves | Sales Team Event Consultant Team | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `94` | Glisel Cepeda Guilbe | Sales Team Event Consultant Team | 48h | Confirm contract/deposit timing with the client and close the booking step.
+- `94` | Sula Sleiman | Sales Team Event Consultant Team | 48h | Fulfill the promised tasting-details follow-up.
+- `93` | Gicele Britto & David- Wedding | Eduarda Fedrizzi | 48h | Fulfill the promised menu / options follow-up.
+- `91` | Allison Caranci | Event Consultant | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `91` | theconnorscenter | Rhonna Ricafort | 48h | Continue normal follow-up with the next milestone in mind.
+- `91` | Rebecca Almeida | Andre Raw | 48h | Send tasting details or offer a non-tasting path forward.
+- `90` | Saeddien Mejia | Sales Team Event Consultant Team | 48h | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `90` | Sula Sleiman | Sales Team Event Consultant Team | 48h | Send or revise the quote and ask for a concrete yes/no next step.
+- `89` | Julia Soares | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `89` | Nicole Walker | Sales Team Event Consultant Team | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `89` | Rachel Sawyer | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `89` | Gicele Britto & David- Wedding | Eduarda Fedrizzi | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Moses Mugwanya | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Tais Riley | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Sara Cleary-Rayball | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Joy Newman | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Sandi | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Mireille Mfuta | Eduarda Fedrizzi | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `88` | Sandy B | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `86` | Alexa Rodriguez | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `86` | Nefar Moran | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `86` | Rebecca Almeida | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `86` | WeddingPro - Patrick | Sales Team Event Consultant Team | 3d | Reply with availability and the next workable slot.
+- `85` | Paula Faria Event Planner | Rhonna Ricafort | 3d | Continue normal follow-up with the next milestone in mind.
+- `85` | Mill 1 at Open Square | Rhonna Ricafort | 3d | Continue normal follow-up with the next milestone in mind.
+- `84` | Destiny Lemons Morris | Sales Team Event Consultant Team | 3d | Continue normal follow-up with the next milestone in mind.
+- `83` | Ashley Hoeger | Event Consultant | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `83` | Osilene - Gisele Decorations | Eduarda Fedrizzi | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `83` | Hannah Goguen | Eduarda Fedrizzi | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `83` | Dalcione Reis | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `83` | Rick Kardos (Trinity Bible Church) | Bibi De Los Santos | 3d | Confirm contract/deposit timing with the client and close the booking step.
+- `82` | Framingham History Center ,Village Hall in Framingham MA | Eduarda Fedrizzi | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `81` | WeddingPro - Patrick | Sales Team Event Consultant Team | 3d | Rescope the package and send a lower-cost path that still works for the event.
+- `81` | Wedding & Event Lighting- Jeff | Rhonna Ricafort | 3d | Continue normal follow-up with the next milestone in mind.
+- `80` | Ingrid - Brazilian | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `80` | Alexandra Bernardez | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `80` | Jeanine Oliveira | Sales Team Event Consultant Team | 3d | Send or revise the quote and ask for a concrete yes/no next step.
+- `80` | Joel Event Planner | Rhonna Ricafort | 3d | Continue normal follow-up with the next milestone in mind.
+- `80` | Karine Carlson | Sales Team Event Consultant Team | today | Fulfill the promised quote follow-up.
+- `79` | Makenzie & Ronald | Sales Team Event Consultant Team | 3d | Confirm contract/deposit timing with the client and close the booking step.
+- `78` | Sylvia | Event Consultant | today | Rescope the package and send a lower-cost path that still works for the event.
+- `77` | Alice Mensah | Sales Team Event Consultant Team | 3d | Continue normal follow-up with the next milestone in mind.
+- `76` | LIA + TEAM @ DIVINE STONE WORKS | Rhonna Ricafort | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Miguel Lopez Rivera | Andre Raw | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Iaponira DaSilva | Event Consultant | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Carey Guenzel Galasso | Event Consultant | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Nicole Gilford & Richard Desharnais | Rhonna Ricafort | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Rachael Corbitt | Sales Team Event Consultant Team | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Elizabeth Comtois | Sales Team Event Consultant Team | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Ketsia Leroy | Sales Team Event Consultant Team | 3d | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `76` | Lucivania | Andre Raw | 3d | Continue normal follow-up with the next milestone in mind.
+- `76` | Glenn Celado & Eloida | Eduarda Fedrizzi | 3d | Follow up with a decision deadline instead of an open-ended check-in.
+- `76` | Yuderka Fernandez | Sales Team Event Consultant Team | today | Verify venue status and catering rules before revising the proposal any further.
+- `76` | Karine Carlson | Sales Team Event Consultant Team | today | Verify venue status and catering rules before revising the proposal any further.
+- `74` | Mariah Gerstel | Andre Raw | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `73` | Luciane Sena | Sales Team Event Consultant Team | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `73` | Lisa Emond | Sales Team Event Consultant Team | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `73` | Cee Cedeño | Rhonna Ricafort | 7d | Close the follow-up promise instead of leaving it hanging.
+- `71` | Kyla Brown | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `71` | Kristen Rodriguez | Andre Raw | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `71` | Debora Lopes | Sales Team Event Consultant Team | 7d | Fulfill the promised menu / options follow-up.
+- `69` | Cee Cedeño | Rhonna Ricafort | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `68` | Dulce Almeida | Event Consultant | 7d | Follow up with a decision deadline instead of an open-ended check-in.
+- `68` | Andressa | Event Consultant | 7d | Follow up with a decision deadline instead of an open-ended check-in.
+- `68` | Betty Manalac | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `68` | Jill Leafer | Rhonna Ricafort | 7d | Continue normal follow-up with the next milestone in mind.
+- `68` | Jenna Dietenhofer | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `68` | Diana Paine | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `68` | Lauren Paine | Sales Team Event Consultant Team | 7d | Follow up with a decision deadline instead of an open-ended check-in.
+- `68` | Gianna DeFusco | Sales Team Event Consultant Team | 7d | Follow up with a decision deadline instead of an open-ended check-in.
+- `68` | Sophie Kroeze | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `67` | Debora Lopes | Sales Team Event Consultant Team | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `66` | Wilma Marrero-Crespo | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `66` | Olivia Lowthian | Eduarda Fedrizzi | 7d | Continue normal follow-up with the next milestone in mind.
+- `66` | Mika Pierre | Andre Raw | 7d | Continue normal follow-up with the next milestone in mind.
+- `65` | Simone Covino | Andre Raw | 7d | Continue normal follow-up with the next milestone in mind.
+- `65` | Julianna Leiva | Andre Raw | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `65` | Elise Lamoreaux | Event Consultant | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `65` | Marcelo- Irmao Erlon | Andre Raw | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `65` | Ana Claudia | Andre Raw | 7d | Confirm contract/deposit timing with the client and close the booking step.
+- `64` | Matthew Yorko | Sales Team Event Consultant Team | 7d | Clarify whether the venue allows outside catering and whether Comeketo can still stay in play.
+- `64` | Maureen Ntegeka | Sales Team Event Consultant Team | 7d | Continue normal follow-up with the next milestone in mind.
+- `64` | Sara Melanson | Sales Team Event Consultant Team | 7d | Follow up with a decision deadline instead of an open-ended check-in.
+- `62` | +1 857-416-5072 | Andre Raw | 7d | Continue normal follow-up with the next milestone in mind.
+- `58` | Jeanette Comire | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Ari | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Arthur Schneider | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | kaitlyn nichols | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Emma Bascombe | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Chloe Roy | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Meredith Johnson | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Jennifer Stgeorge | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Laura Taylor | Sales Team Event Consultant Team | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Neena Dawson | Eduarda Fedrizzi | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Rosana Barros | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Heli Parekh | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Traci Troy | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.
+- `58` | Chuck Zucco | Andre Raw | 14d | Continue normal follow-up with the next milestone in mind.

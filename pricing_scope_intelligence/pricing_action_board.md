@@ -1,0 +1,49 @@
+# Pricing Action Board
+
+- Total pricing-action rows: `44`
+
+## Top Rows
+- `120` | Nichole Cross | Event Consultant | 🔥 05. Quote Phase | Send a stripped-down revision with explicit savings for each scope cut.
+- `119` | Ababa | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Send tiered options so the client can see what each add-on costs and what can be removed.
+- `114` | Kristen | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `112` | Sue Tetuan Tavares | Andre Raw | 📲 02. Asking For Quote | Send a stripped-down revision with explicit savings for each scope cut.
+- `108` | Cheryl Rank | Andre Raw | 🔥 03. Booked for Tasting | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `108` | Anastasia Friar | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `102` | Alessandra Gaspar | Andre Raw | 📲 02. Setting Tasting Appointment | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `102` | Sabrina Oliveira | Rhonna Ricafort | 🔥 04. Attended Tasting | Send a side-by-side revised quote with clear price deltas between the options.
+- `100` | Efua Bondzie | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Answer the pricing questions directly and close with a concrete decision window.
+- `96` | Lazaro Silva | Andre Raw | 🔥 03. Booked for Tasting | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `95` | Pascale Cadet | Event Consultant | 📲 02. Asking For Quote | Answer the pricing questions directly and close with a concrete decision window.
+- `94` | Gillian Braley | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Send a stripped-down revision with explicit savings for each scope cut.
+- `94` | Nicole Goncalves | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `94` | Glisel Cepeda Guilbe | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Answer the pricing questions directly and close with a concrete decision window.
+- `90` | Sula Sleiman | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Answer the pricing questions directly and close with a concrete decision window.
+- `89` | Gicele Britto & David- Wedding | Eduarda Fedrizzi | 🔥 05A. Quote sent | Send a side-by-side revised quote with clear price deltas between the options.
+- `89` | Julia Soares | Andre Raw | 🔥 03. Booked for Tasting | Send tiered options so the client can see what each add-on costs and what can be removed.
+- `89` | WeddingPro - Patrick | Sales Team Event Consultant Team | 💼 00. Prospect | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `89` | Nicole Walker | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `88` | Sylvia | Event Consultant | 🔥 05A. Quote sent | Send tiered options so the client can see what each add-on costs and what can be removed.
+- `88` | Joy Newman | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `88` | Tais Riley | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `86` | Alexa Rodriguez | Andre Raw | 🔥 03. Booked for Tasting | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `86` | Rebecca Almeida | Andre Raw | 🔥 03. Booked for Tasting | Send a side-by-side revised quote with clear price deltas between the options.
+- `83` | Hannah Goguen | Eduarda Fedrizzi | 🔥 04. Attended Tasting | Send tiered options so the client can see what each add-on costs and what can be removed.
+- `83` | Ashley Hoeger | Event Consultant | 📲 02. Setting Tasting Appointment | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `82` | Yuderka Fernandez | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `80` | Alexandra Bernardez | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Send a side-by-side revised quote with clear price deltas between the options.
+- `80` | Karine Carlson | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `80` | Jeanine Oliveira | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Send or revise the quote and ask for a concrete next-step decision.
+- `76` | Glenn Celado & Eloida | Eduarda Fedrizzi | 🟩 01. Qualified | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `76` | Matthew Yorko | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Answer the pricing questions directly and close with a concrete decision window.
+- `73` | Luciane Sena | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Send a side-by-side revised quote with clear price deltas between the options.
+- `73` | Lisa Emond | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `71` | Kristen Rodriguez | Andre Raw | 💲 06. Booked / Deposit 35% | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `71` | Cyprian Odeke | Event Consultant | 💲 09. Fully Paid | Answer the pricing questions directly and close with a concrete decision window.
+- `69` | Cee Cedeño | Rhonna Ricafort | 💲 06. Booked / Deposit 35% | Send a stripped-down revision with explicit savings for each scope cut.
+- `65` | Elise Lamoreaux | Event Consultant | 💲 06. Booked / Deposit 35% | Answer the pricing questions directly and close with a concrete decision window.
+- `64` | Sara Melanson | Sales Team Event Consultant Team | ⬜ 00. Prospect | Answer the pricing questions directly and close with a concrete decision window.
+- `58` | Jeanette Comire | Andre Raw | ⬜ 00. Prospect | Answer the pricing questions directly and close with a concrete decision window.
+- `55` | Katrina Browchak | Sales Team Event Consultant Team | 💲 07. Paid 50% | Send a side-by-side revised quote with clear price deltas between the options.
+- `55` | Isabel Fernandez | Andre Raw | 💲 07. Paid 50% | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `46` | Susan Byrnes Withemi | Eduarda Fedrizzi | ✅ 10. Job Complete | Answer the pricing questions directly and close with a concrete decision window.
+- `45` | Cheryl Cole | Andre Raw | 💲 09. Fully Paid | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.

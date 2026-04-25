@@ -1,0 +1,81 @@
+# Upcoming Event Watchlist
+
+- Leads with event dates: `76`
+
+## Events
+- `2026-03-28T15:00:00Z` | Cyprian Odeke | 💲 09. Fully Paid |  guests |  | House, Backyard
+- `2026-03-28T15:00:00Z` | Mayara Morgana Silva | ⬜ 00. Prospect |  guests |  | NEEDS VENUE NAME
+- `2026-04-03T04:00:00Z` | Kristen | 🔥 05A. Quote sent |  guests |  | 
+- `2026-04-04T04:00:00Z` | Ababa | 🔥 05A. Quote sent |  guests |  | 
+- `2026-04-04T21:00:00Z` | Valmir Paschoal | 💲 07. Paid 50% | 30 guests |  | CHULU AUTO SALES
+- `2026-04-05T04:00:00Z` | Alessandra Gaspar | 📲 02. Setting Tasting Appointment |  guests |  | 
+- `2026-04-07T04:00:00Z` | Yara Avalos | 🟩 01. Qualified |  guests |  | 
+- `2026-04-10T16:00:00Z` | Nichole Cross | 🔥 05. Quote Phase | 30-50 guests |  | Hampton Inn Boston-Natick
+- `2026-04-11T04:00:00Z` | Lucivania | ⬜ 00. Prospect | How much guests | Birthday | NEEDS VENUE NAME
+- `2026-04-12T04:00:00Z` | Cheryl Rank | 🔥 03. Booked for Tasting |  guests |  | 
+- `2026-04-15T04:00:00Z` | Blessin Premy | 🔥 03. Booked for Tasting | 76-100 guests |  | NEEDS VENUE NAME
+- `2026-04-18T04:00:00Z` | Anastasia Friar | 📲 02. Setting Tasting Appointment |  guests |  | 
+- `2026-04-23T04:00:00Z` | Brooklyn whitmyer | 🔥 05A. Quote sent |  guests |  | 
+- `2026-04-24T04:00:00Z` | Efua Bondzie | 📲 02. Asking For Quote |  guests |  | Pond house Hartford, CT
+- `2026-04-24T22:00:00Z` | Rick Kardos (Trinity Bible Church) | 💲 06. Booked / Deposit 35% | 150-160 guests | benefit | 3 Lund Road, Nashua NH (Church)
+- `2026-04-26T04:00:00Z` | Destiny Lemons Morris | ⬜ 00. Prospect | 110 guests | Reception | NEEDS VENUE NAME
+- `2026-05-03T04:00:00Z` | Alexa Rodriguez | 🔥 03. Booked for Tasting | 90 guests | Baby shower | NEEDS VENUE NAME
+- `2026-05-24T03:00:00Z` | José Pérez Cardona | 💲 07. Paid 50% | 100 guests | Wedding | NEEDS VENUE NAME
+- `2026-05-30T04:00:00Z` | Alexandra Bernardez | 📲 02. Asking For Quote | 60 guests | Birthday | NEEDS VENUE NAME
+- `2026-05-30T16:00:00Z` | Debora Lopes | 💲 06. Booked / Deposit 35% | 70 guests | Wedding | Residence, 14 Janice Circle, Framingham MA
+- `2026-06-01T04:00:00Z` | Chuck Zucco | ⬜ 00. Prospect | 50 guests | Graduation | NEEDS VENUE NAME
+- `2026-06-06T04:00:00Z` | Mika Pierre | ⬜ 00. Prospect | 30 guests | Graduation party | NEEDS VENUE NAME
+- `2026-06-06T15:00:00Z` | Sula Sleiman | 🔥 05A. Quote sent | 30 guests | Small wedding | NEEDS VENUE NAME
+- `2026-06-06T15:00:00Z` | Sara Cleary-Rayball | 🔥 05A. Quote sent | 30 guests | Outdoor wedding | NEEDS VENUE NAME
+- `2026-06-07T04:00:00Z` | Pascale Cadet | 📲 02. Asking For Quote | 50 people guests | Graduation party | NEEDS VENUE NAME
+- `2026-06-07T15:00:00Z` | Ingrid - Brazilian | 📲 02. Asking For Quote | 45 guests | Graduation Party | 
+- `2026-06-12T19:00:00Z` | Sandi | 🔥 05A. Quote sent | 125 guests | WEDDING | NEEDS VENUE NAME
+- `2026-06-13T15:00:00Z` | Ana Claudia | 💲 06. Booked / Deposit 35% | 100 guests | vow review | Backyard Residence
+- `2026-06-20T04:00:00Z` | Sandy B | 📲 02. Setting Tasting Appointment | 30 guests | Graduation | NEEDS VENUE NAME
+- `2026-06-20T16:00:00Z` | Lisa Emond | 💲 06. Booked / Deposit 35% | 70 guests | Graduation Party | 16 Observatory WayeMarshfield, MA 02050, EUA
+- `2026-06-27T04:00:00Z` | Isabel Fernandez | 💲 07. Paid 50% | 70 guests | Wedding | NEEDS VENUE NAME
+- `2026-06-27T04:00:00Z` | Ashley Hoeger | 📲 02. Setting Tasting Appointment | 70 guests | Wedding | NEEDS VENUE NAME
+- `2026-06-27T15:00:00Z` | Nefar Moran | 📲 02. Asking For Quote | 100 guests | Graduation | NEEDS VENUE NAME
+- `2026-07-04T15:00:00Z` | Simone Covino | ⬜ -00. Dormant (30 Days) | 50 guests | party for my husband in July | NEEDS VENUE NAME
+- `2026-07-18T04:00:00Z` | Traci Troy | ⬜ 00. Prospect | 60-70 guests | Wedding | NEEDS VENUE NAME
+- `2026-07-25T15:00:00Z` | Cheryl Cole | 💲 09. Fully Paid | 5 guests | Wedding | NEEDS VENUE NAME
+- `2026-07-25T16:00:00Z` | Katrina Browchak | 💲 07. Paid 50% | 80 guests | Wedding | Glenn Manor
+- `2026-07-25T21:00:00Z` | Elise Lamoreaux | 💲 06. Booked / Deposit 35% | 140 guests | non-wedding marriage celebration | Sanctuary Cultural Arts Center
+- `2026-08-01T04:00:00Z` | Andreia DePina Moore | 🔥 03. Booked for Tasting | 25 guests | Anniversary | NEEDS VENUE NAME
+- `2026-08-07T04:00:00Z` | Dulce Almeida | 🟩 01. Qualified | 50 guests | wedding | NEEDS VENUE NAME
+- `2026-08-09T04:00:00Z` | Tais Riley | 🔥 05A. Quote sent | 50 guests | Baby shower | NEEDS VENUE NAME
+- `2026-08-14T15:00:00Z` | Julianna Leiva | 💲 06. Booked / Deposit 35% | 101–200 guests | Wedding | NEEDS VENUE NAME
+- `2026-08-21T04:00:00Z` | Ari | ⬜ 00. Prospect | 130 guests | Party | NEEDS VENUE NAME
+- `2026-08-28T03:00:00Z` | Ross Popham | 💲 09. Fully Paid |  guests | Wedding | ASA WATERS
+- `2026-09-04T04:00:00Z` | Rosana Barros | ⬜ 00. Prospect | 70 guests |  | NEEDS VENUE NAME
+- `2026-09-05T16:00:00Z` | Luciane Sena | 💲 06. Booked / Deposit 35% | 60 guests | wedding | Valley Springs Sportsman Club
+- `2026-09-05T16:00:00Z` | Saeddien Mejia | 🔥 04. Attended Tasting |  guests |  | The Overlook at Meehan
+- `2026-09-05T18:00:00Z` | Layza Souza Reis / Matheus | 💲 09. Fully Paid | 160 guests |  | The Hacienda 95-115 Blake Corner Rd., Phillipston, MA 01331
+- `2026-09-12T04:00:00Z` | Nicole Walker | 📲 02. Setting Tasting Appointment | 100 guests | wedding | NEEDS VENUE NAME
+- `2026-09-12T15:00:00Z` | Mariah Gerstel | 💲 06. Booked / Deposit 35% | 110 guests | wedding | NEEDS VENUE NAME
+- `2026-09-12T15:00:00Z` | Makenzie & Ronald | 💲 06. Booked / Deposit 35% | 80 guests | WEDDING | Hyland Orchard
+- `2026-09-19T04:00:00Z` | Betty Manalac | 🟩 01. Qualified | 50 guests | 60th bday | NEEDS VENUE NAME
+- `2026-09-19T16:00:00Z` | Arthur Schneider | ⬜ 00. Prospect |  guests |  | NEEDS VENUE NAME
+- `2026-09-21T04:00:00Z` | Andressa | 🟩 01. Qualified | 70 (kids included ) guests | Wedding | NEEDS VENUE NAME
+- `2026-09-21T15:00:00Z` | Cee Cedeño | 💲 06. Booked / Deposit 35% | 35 guests | Wedding | Hardy Farm in Fryeburg
+- `2026-09-26T04:00:00Z` | Moses Mugwanya | 🔥 05A. Quote sent | 300 guests | Wedding | NEEDS VENUE NAME
+- `2026-09-26T15:00:00Z` | Gillian Braley | 🔥 05A. Quote sent | 50 guests | Wedding reception | Backyard
+- `2026-10-02T16:00:00Z` | Kristen Rodriguez | 💲 06. Booked / Deposit 35% | 80 guests | Wedding | Hyland Orchard and Events
+- `2026-10-10T15:00:00Z` | Meghan Pingeton | 💲 06. Booked / Deposit 35% | 75 guests | Wedding | NEEDS VENUE NAME
+- `2026-10-24T15:00:00Z` | Dalcione Reis | 🔥 03. Booked for Tasting |  guests | Wedding | The Vault Function Hall
+- `2026-10-31T16:00:00Z` | Chloe Roy | ⬜ 00. Prospect |  guests |  | 
+- `2026-11-15T15:00:00Z` | Gleiziane Dias | 📲 02. Asking For Quote | 100 guests | WEDDING | NEEDS VENUE NAME
+- `2026-12-19T15:00:00Z` | Nicole Gilford & Richard Desharnais | 🔥 03. Booked for Tasting |  guests |  | NEEDS VENUE NAME
+- `2027-01-02T15:00:00Z` | Marcelo- Irmao Erlon | 💲 06. Booked / Deposit 35% | 100-120 guests | wedding | NEEDS VENUE NAME
+- `2027-02-01T15:00:00Z` | Jennifer Stgeorge | ⬜ 00. Prospect |  guests |  | Smithfield RI
+- `2027-05-22T04:00:00Z` | Joy Newman | 🔥 05A. Quote sent | 144 guests | wedding | NEEDS VENUE NAME
+- `2027-06-25T16:00:00Z` | Hannah Goguen | 🔥 04. Attended Tasting | 123 guests | Wedding | Wellinghall Farm
+- `2027-07-03T15:00:00Z` | Julia Soares | 🔥 03. Booked for Tasting | 51-75 guests | Wedding | NEEDS VENUE NAME
+- `2027-07-18T04:00:00Z` | Glenn Celado & Eloida | 🟩 01. Qualified | 144 guests | wedding | NEEDS VENUE NAME
+- `2027-09-03T15:00:00Z` | Gianna DeFusco | 🟩 01. Qualified |  guests |  | Pawtucket Country Club
+- `2027-09-27T16:00:00Z` | Jill Leafer | 🟩 01. Qualified | 150 guests |  | Still looking
+- `2027-10-01T15:00:00Z` | Heli Parekh | ⬜ 00. Prospect |  guests |  | Still looking
+- `2027-10-02T16:00:00Z` | Emma Bascombe | ⬜ 00. Prospect |  guests |  | NEEDS VENUE NAME
+- `2027-10-10T04:00:00Z` | Rebecca Almeida | 🔥 03. Booked for Tasting | 100 guests | wedding | NEEDS VENUE NAME
+- `2028-05-20T04:00:00Z` | Rachel Sawyer | 📲 02. Setting Tasting Appointment | 60 guests | Wedding | NEEDS VENUE NAME
+- `2029-04-28T15:00:00Z` | Jenna Dietenhofer | 🟩 01. Qualified |  guests |  | Not decided at the moment

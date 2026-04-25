@@ -1,0 +1,78 @@
+# Recovery Action Board
+
+- Total rows: `73`
+
+## Top Rows
+- `272` | Sue Tetuan Tavares | Andre Raw | 📲 02. Asking For Quote | Send a stripped-down revision with explicit savings for each scope cut.
+- `202` | Gillian Braley | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `188` | Ababa | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `182` | Sylvia | Event Consultant | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `180` | Nichole Cross | Event Consultant | 🔥 05. Quote Phase | Send a stripped-down revision with explicit savings for each scope cut.
+- `163` | Cheryl Rank | Andre Raw | 🔥 03. Booked for Tasting | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `159` | Alexa Rodriguez | Andre Raw | 🔥 03. Booked for Tasting | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `156` | Karine Carlson | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `151` | Cee Cedeño | Rhonna Ricafort | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `149` | Luciane Sena | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `147` | Kristen | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `146` | Anastasia Friar | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `144` | Efua Bondzie | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `143` | Gicele Britto & David- Wedding | Eduarda Fedrizzi | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `141` | Rachel Sawyer | Andre Raw | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `140` | Brooklyn whitmyer | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `133` | Debora Lopes | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `131` | Elise Lamoreaux | Event Consultant | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `130` | Yuderka Fernandez | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `130` | Lazaro Silva | Andre Raw | 🔥 03. Booked for Tasting | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `130` | Moses Mugwanya | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `130` | Tais Riley | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `128` | Carey Guenzel Galasso | Event Consultant | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `128` | WeddingPro - Patrick | Sales Team Event Consultant Team | 💼 00. Prospect | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `128` | Stone Garden | Sales Team Event Consultant Team | 💼🎉 Converterted to B2B | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `127` | Cyprian Odeke | Event Consultant | 💲 09. Fully Paid | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `126` | Nicole Walker | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `125` | Allison Caranci | Event Consultant | 📲 02. Setting Tasting Appointment | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `125` | Viewpoint Venue- Tuanny | Eduarda Fedrizzi | 💼 04. Sent Some Referrals | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `124` | Sula Sleiman | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Fulfill the promised tasting-details follow-up.
+- `123` | Matthew Yorko | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `122` | Sabrina Oliveira | Rhonna Ricafort | 🔥 04. Attended Tasting | Send a side-by-side revised quote with clear price deltas between the options.
+- `118` | Alessandra Gaspar | Andre Raw | 📲 02. Setting Tasting Appointment | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `116` | Nicole Goncalves | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Price the add-ons separately so the buyer can say yes in pieces instead of all at once.
+- `115` | Sandy B | Andre Raw | 📲 02. Setting Tasting Appointment | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `114` | Lisa Emond | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `113` | Mayara Morgana Silva | Andre Raw | ⬜ 00. Prospect | Confirm the venue choice, the catering rules, and any service-window constraints before revising the plan again.
+- `113` | Vickianna Alexis- Wedding planner | Rhonna Ricafort | 💼🎉 Converterted to B2B | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `112` | Andreia DePina Moore | Andre Raw | 🔥 03. Booked for Tasting | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `111` | Blessin Premy | Sales Team Event Consultant Team | 🔥 03. Booked for Tasting | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `111` | Gleiziane Dias | Andre Raw | 📲 02. Asking For Quote | Confirm the venue choice, the catering rules, and any service-window constraints before revising the plan again.
+- `111` | Julia Soares | Andre Raw | 🔥 03. Booked for Tasting | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `109` | Pascale Cadet | Event Consultant | 📲 02. Asking For Quote | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `109` | Rick Kardos (Trinity Bible Church) | Bibi De Los Santos | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `108` | Yara Avalos | Eduarda Fedrizzi | 🟩 01. Qualified | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `107` | Glenn Celado & Eloida | Eduarda Fedrizzi | 🟩 01. Qualified | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `105` | Valmir Paschoal | Eduarda Fedrizzi | 💲 07. Paid 50% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `104` | Dalcione Reis | Andre Raw | 🔥 03. Booked for Tasting | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `104` | Glisel Cepeda Guilbe | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Confirm the venue choice, the catering rules, and any service-window constraints before revising the plan again.
+- `101` | Paul | Rhonna Ricafort | ⬜ 00. Prospect | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `100` | Rebecca Almeida | Andre Raw | 🔥 03. Booked for Tasting | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `100` | Makenzie & Ronald | Sales Team Event Consultant Team | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `99` | theconnorscenter | Rhonna Ricafort | 💼 01. Aware of us | Confirm the venue choice, the catering rules, and any service-window constraints before revising the plan again.
+- `98` | Jeanine Oliveira | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `94` | Andressa | Event Consultant | 🟩 01. Qualified | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `94` | Dulce Almeida | Event Consultant | 🟩 01. Qualified | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `94` | Joy Newman | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `93` | Iaponira DaSilva | Event Consultant | 🔥 04. Attended Tasting | Restate the menu constraints, service format, and venue limitations explicitly in the next quote or handoff note.
+- `90` | Destiny Lemons Morris | Sales Team Event Consultant Team | ⬜ 00. Prospect | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `90` | Sara Melanson | Sales Team Event Consultant Team | ⬜ 00. Prospect | Summarize the recommendation for every decision-maker, answer the open questions, and set a review deadline.
+- `89` | Ashley Hoeger | Event Consultant | 📲 02. Setting Tasting Appointment | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `86` | Alexandra Bernardez | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `86` | Greylock Works | Eduarda Fedrizzi | 💼🎉 Converterted to B2B | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `85` | Mariah Gerstel | Andre Raw | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `82` | Kristen Rodriguez | Andre Raw | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `77` | Susan Byrnes Withemi | Eduarda Fedrizzi | ✅ 10. Job Complete | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `76` | Edwin Portillo | Andre Raw | ⬜ 00. Prospect | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `76` | Francisca Lopez | Andre Raw | ⬜ 00. Prospect | Reconfirm the real event date before using it for urgency, staffing, or quote timing decisions.
+- `76` | Julianna Leiva | Andre Raw | 💲 06. Booked / Deposit 35% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `71` | Katrina Browchak | Sales Team Event Consultant Team | 💲 07. Paid 50% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `66` | Isabel Fernandez | Andre Raw | 💲 07. Paid 50% | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `64` | New England Church - Pastor Leandro Pastor Rafael | Rhonna Ricafort | ✅ 10. Job Complete | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.
+- `61` | Cheryl Cole | Andre Raw | 💲 09. Fully Paid | Do one last detail-confirmation pass so changed assumptions do not sneak into execution.

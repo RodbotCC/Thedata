@@ -1,0 +1,53 @@
+# Stalled Lead Board
+
+- Total stalled active lead rows: `48`
+
+## Top Rows
+- `20` | Sue Tetuan Tavares | Andre Raw | 📲 02. Asking For Quote | Can you please quote me for the following: - Pao De Queijo - Quinoa & Chickpea Salad mini cups - Fruit Platter - Caprese Skewers - Assorted Bkfst Sandwiches - Spanakopita pastry - Cheese & Cracker Platter - Juices - Coff
+- `16` | WeddingPro - Patrick | Sales Team Event Consultant Team | 💼 00. Prospect | Sarah wants to learn more about your offerings! Check out their message: I'm getting married on 10/03/2026 and would love to learn more. Could you please send me some additional information? For: Comeketo Catering - Wedd
+- `15` | Rebecca Almeida | Andre Raw | 🔥 03. Booked for Tasting | I have a meeting with the owner of Christalight to talk about their packages, I was hoping to add more food, because I just don't think that what they have for the package is enough to feed everybody, especially after coming to the tasting, there were things I wanted to add.
+- `14` | Cheryl Rank | Andre Raw | 🔥 03. Booked for Tasting | 2026-03-27T22:28:50Z | Andre Raw | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `14` | Sula Sleiman | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Okay. Okay. I'll take note of that before I let you go. Just to let you know that we have a tasting fee of $35 per person. I'm gonna send you an email with the tasting details together with the link to register for the tasting also. Okay. So whenever you guys decided to join us.
+- `13` | Nichole Cross | Event Consultant | 🔥 05. Quote Phase | The guest count that you provide will also serve as our minimum guaranteed number of guests, which will be used as the basis for the 30% deposit and event preparation.
+- `13` | Ababa | Sales Team Event Consultant Team | 🔥 05A. Quote sent | I think we’d like a baked chicken steak option I don’t think adding the 3rd one is within our budget.
+- `13` | Sabrina Oliveira | Rhonna Ricafort | 🔥 04. Attended Tasting | Sabrina Oliveira: pricing posture revision or comparison active; scope posture stable scope; pricing asks light pricing discovery; budget no clear budget pressure; expansion no clear add-on push; reduction no clear scope reduction; comparison package comparison; contract no contract readiness signal.
+- `13` | Saeddien Mejia | Sales Team Event Consultant Team | 🔥 04. Attended Tasting | 2026-03-28T22:28:50Z | Sales Team Event Consultant Team | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `12` | Mayara Morgana Silva | Andre Raw | ⬜ 00. Prospect | 2026-03-27T22:28:50Z | Andre Raw | Continue normal follow-up with the next milestone in mind.
+- `12` | Framingham History Center ,Village Hall in Framingham MA | Eduarda Fedrizzi | 💼 00. Prospect | Thank you for your message regarding Framingham History Center's Village Hall on the Common. Your message has been received. A member of our team will respond within the next two business days. -- Village Hall on the Com
+- `11` | Gleiziane Dias | Andre Raw | 📲 02. Asking For Quote | 2026-03-28T22:28:50Z | Andre Raw | Send or revise the quote and ask for a concrete yes/no next step.
+- `11` | Sylvia | Event Consultant | 🔥 05A. Quote sent | Yes. And unfortunately, it's way out of budget at the moment.
+- `11` | Paula Faria Event Planner | Rhonna Ricafort | 💼 01. Aware of us | ❤️ to " Ola Paula, Obrigada por confirmar sua presença e a do seu marido! Abaixo seguem o mapa do local e informações do evento! 📅 Data: 12 de março 🕖 Horário: 19h 📍 Local: 199 Main St., Fitchburg, MA Qualquer dúvida, fi
+- `11` | Wedding & Event Lighting- Jeff | Rhonna Ricafort | 💼 01. Aware of us | Got it! Logging in
+- `10` | Kristen | Sales Team Event Consultant Team | 🔥 05A. Quote sent | 2026-03-27T22:28:50Z | Sales Team Event Consultant Team | Send or revise the quote and ask for a concrete yes/no next step.
+- `10` | Efua Bondzie | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Okay. I'm actually not sure of that as well. But yeah, Let me send you the tasting details for this coming Sunday and the next next tasting. Okay.
+- `10` | Andreia DePina Moore | Andre Raw | 🔥 03. Booked for Tasting | 2026-03-28T22:28:50Z | Andre Raw | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `10` | Lazaro Silva | Andre Raw | 🔥 03. Booked for Tasting | 2026-03-28T22:28:50Z | Andre Raw | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `10` | Gillian Braley | Sales Team Event Consultant Team | 🔥 05A. Quote sent | Yeah. So we're only about half an hour from Pittsburgh. Is that you said you just sounds like you were worried about the distance.
+- `10` | theconnorscenter | Rhonna Ricafort | 💼 01. Aware of us | 2026-03-28T22:28:50Z | Rhonna Ricafort | Continue normal follow-up with the next milestone in mind.
+- `10` | Gicele Britto & David- Wedding | Eduarda Fedrizzi | 🔥 05A. Quote sent | Okay, yeah, we can do both. Okay. Mashed potatoes, baked potatoes. I will put some sample options for you guys. Just, you know, a couple of suggestions. But I will also send you the full menu so you guys can choose.
+- `10` | Julia Soares | Andre Raw | 🔥 03. Booked for Tasting | Okay. So that's kind of like your guys's meeting your minimum. No, because I just know some bar services are like, oh, you pay to rent us, and then you also have to meet a minimum. So I just want to make sure that wasn't the case.
+- `10` | Nicole Walker | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | Nicole Walker declined to attend the catering tasting due to distance concerns and inability to travel to the current venue location.
+- `10` | Hannah Goguen | Eduarda Fedrizzi | 🔥 04. Attended Tasting | So what would the travel fee be to come to? It's in Danville, New Hampshire. It's like, right.
+- `10` | Karine Carlson | Sales Team Event Consultant Team | 📲 02. Asking For Quote | So, yeah, let me create you the quote now and I'm gonna send it to your email as well. So you're leaning towards having a buffet or family style.
+- `9` | Blessin Premy | Sales Team Event Consultant Team | 🔥 03. Booked for Tasting | 2026-03-28T22:28:50Z | Sales Team Event Consultant Team | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `8` | Anastasia Friar | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | 2026-03-27T22:28:50Z | Sales Team Event Consultant Team | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `8` | Alessandra Gaspar | Andre Raw | 📲 02. Setting Tasting Appointment | 2026-03-28T22:28:50Z | Andre Raw | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `8` | Nicole Goncalves | Sales Team Event Consultant Team | 📲 02. Asking For Quote | 2026-03-28T22:28:50Z | Sales Team Event Consultant Team | Send or revise the quote and ask for a concrete yes/no next step.
+- `8` | Allison Caranci | Event Consultant | 📲 02. Setting Tasting Appointment | 2026-03-28T22:28:50Z | Event Consultant | Get a tasting decision or offer a non-tasting path to a quote/deposit.
+- `8` | Rachel Sawyer | Andre Raw | 📲 02. Setting Tasting Appointment | Lock the tasting details or use the tasting conversation to move toward deposit.
+- `8` | Sandy B | Andre Raw | 📲 02. Setting Tasting Appointment | Lock the tasting details or use the tasting conversation to move toward deposit.
+- `8` | Mill 1 at Open Square | Rhonna Ricafort | 💼 01. Aware of us | Push the active opportunity to its next milestone.
+- `8` | Joel Event Planner | Rhonna Ricafort | 💼 01. Aware of us | Push the active opportunity to its next milestone.
+- `8` | Edwin Portillo | Andre Raw | ⬜ 00. Prospect | 2026-03-27T22:28:50Z | Andre Raw | Continue normal follow-up with the next milestone in mind.
+- `7` | Brooklyn whitmyer | Sales Team Event Consultant Team | 🔥 05A. Quote sent | 2026-03-28T22:28:50Z | Sales Team Event Consultant Team | Clarify whether the venue allows outside catering and whether Comeketo can still stay in play.
+- `7` | Pascale Cadet | Event Consultant | 📲 02. Asking For Quote | 2026-03-28T22:28:50Z | Event Consultant | Send or revise the quote and ask for a concrete yes/no next step.
+- `7` | Yara Avalos | Eduarda Fedrizzi | 🟩 01. Qualified | 2026-03-28T22:28:50Z | Eduarda Fedrizzi | Continue normal follow-up with the next milestone in mind.
+- `7` | Yuderka Fernandez | Sales Team Event Consultant Team | 📲 02. Setting Tasting Appointment | 2026-03-27T22:28:50Z | Sales Team Event Consultant Team | Verify venue status and catering rules before revising the proposal any further.
+- `7` | Ingrid - Brazilian | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Oi. Obrigada
+- `7` | Alice Mensah | Sales Team Event Consultant Team | ⬜ 00. Prospect | Push the active opportunity to its next milestone.
+- `7` | Mika Pierre | Andre Raw | ⬜ 00. Prospect | Push the active opportunity to its next milestone.
+- `7` | Olivia Lowthian | Eduarda Fedrizzi | ⬜ 00. Prospect | Push the active opportunity to its next milestone.
+- `7` | Francisca Lopez | Andre Raw | ⬜ 00. Prospect | 2026-03-27T22:28:50Z | Andre Raw | Continue normal follow-up with the next milestone in mind.
+- `7` | Paul | Rhonna Ricafort | ⬜ 00. Prospect | 2026-03-27T22:28:50Z | Rhonna Ricafort | Follow up with a decision deadline instead of an open-ended check-in.
+- `6` | Glisel Cepeda Guilbe | Sales Team Event Consultant Team | 🔥 05A. Quote sent | 2026-03-28T22:28:50Z | Sales Team Event Consultant Team | Confirm contract/deposit timing with the client and close the booking step.
+- `6` | Alexandra Bernardez | Sales Team Event Consultant Team | 📲 02. Asking For Quote | Yeah, I wanted to see how much. What is it that you do again? I was looking at it while I was working. Hello.

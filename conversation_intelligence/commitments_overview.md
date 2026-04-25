@@ -1,0 +1,111 @@
+# Commitments Overview
+
+- Total sales commitments: `164`
+
+## Categories
+- send_menu: 38
+- send_quote: 34
+- follow_up: 47
+- send_tasting_details: 45
+
+## Latest Examples
+- `2026-03-26T13:17:22Z` | Karine Carlson | send_menu | How does that sound? Okay, sure. Let me send you right now an email with our menus appetizer.
+- `2026-03-26T13:17:22Z` | Karine Carlson | send_quote | So, yeah, let me create you the quote now and I'm gonna send it to your email as well. So you're leaning towards having a buffet or family style.
+- `2026-03-25T20:52:44Z` | Alexandra Bernardez | send_menu | It will be your choice. Menu will be your choice. I'm gonna send you the menu and then it will. You have to choose your. You have to choose your two main course.
+- `2026-03-25T20:52:44Z` | Alexandra Bernardez | send_menu | Calendar. So, okay, I'm gonna send you the code and I'm also gonna send you our menu for you to choose to incorporate into your chosen package. Okay.
+- `2026-03-25T20:52:44Z` | Alexandra Bernardez | send_menu | Okay, I have here. Your email is bernardalexandriamail.com okay, my pleasure. Let me go ahead and fix this code. I will send it to you together with your menu. Okay, Have a great one. My pleasure. Bye. Bye.
+- `2026-03-25T20:34:34Z` | Karine Carlson | follow_up | I'll call you tomorrow at 9
+- `2026-03-25T20:30:46Z` | Karine Carlson | send_quote | For now, I will create the quote for you to have an idea of the pricing.
+- `2026-03-25T18:52:05Z` | Jeanine Oliveira | send_menu | Let me send you our details. Menu for you to choose. But for me to create your code, I need you to choose a package. Okay. This package includes protein main courses, sides and salad. Menus will be your choice. Okay. For me to generate your coat, I'm gonna create an example code only menus will be, you know, you can change it later on. Okay.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | send_menu | Oh, sure. Let me send you our detailed menu so you can have it, you know, you can review it. We have a wide range of menus that you can choose from.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | send_tasting_details | Okay. I'm actually not sure of that as well. But yeah, Let me send you the tasting details for this coming Sunday and the next next tasting. Okay.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | send_menu | Let me send you an email right now with our menu.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | send_menu | Let me send you our menu. Okay. The quotes that I'm about to create, I will, I will choose menus but those are examples only for me to generate the numbers. Okay. Feel free to change it on a later on or on the tasting.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | send_menu | Invited Efua to tasting events on March 29th (Fitchburg) or April 12th (Bellingham, Mass) and committed to sending menu details and quotes for follow-up discussion.
+- `2026-03-25T18:20:16Z` | Brooklyn whitmyer | send_quote | Okay. I'm gonna create you a quote for this. Plated and buffet. I know your wedding still, you know, far off, 20, 28. So that's fine. Do you have the date already? I mean.
+- `2026-03-25T18:20:16Z` | Brooklyn whitmyer | send_tasting_details | With Meyer Brooklyn. Okay, Yep, let me send it right now for the tasting.
+- `2026-03-25T18:20:16Z` | Brooklyn whitmyer | send_quote | Tony will create a detailed quote for both buffet options and a Quickloom video explaining package inclusions.
+- `2026-03-25T15:24:26Z` | Sue Tetuan Tavares | send_menu | Okay, how about this? Let me send you our menu. I have here your email so I can, you know.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | follow_up | What I'm going to do. Holly, are you. Are you available today so Toni can call you back and continue this so she can tell you all about.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | follow_up | All right, I got a lot of information. I'm gonna give it to Tony. And like I said, as soon as she comes on, she will reach out. If she does not call you until, let's say.
+- `2026-03-24T18:19:45Z` | Nichole Cross | send_quote | I will send in a separate email our agreement if youa re good with the Quote we sent then we can proceed with the 30% deposit sowe can secure thigns on our end Thank you P.s my email is Best, 🌺 Rhonna C.
+- `2026-03-24T16:04:38Z` | Sara Melanson | send_menu | We actually have a tasting this coming Sunday. If you guys are free to join us March 29th at 2pm I'm gonna send you the details. Okay. So for the menu.
+- `2026-03-24T16:04:38Z` | Sara Melanson | send_tasting_details | Oh, I see. Okay, sure. How about this? Let me send you the next tasting.
+- `2026-03-24T16:04:38Z` | Sara Melanson | send_menu | Let me also send you our detailed menu so you can, you know, check. By the way, the package inclusions menus will be your choice. Okay.
+- `2026-03-24T15:58:52Z` | Alexandra Bernardez | follow_up | Hey Alexandra, I will call you later at 1 pm
+- `2026-03-24T13:20:11Z` | Kyla Brown | follow_up | Oh sure, let me take note of that and I'm gonna clear my plate for you. I'm gonna call you again. 6:00pm okay.
+- `2026-03-23T22:10:33Z` | Katrina Browchak | send_quote | Consultant committed to sending updated quote and checking with chef on dinner plate dimensions.
+- `2026-03-23T22:10:33Z` | Katrina Browchak | send_quote | Consultant committed to sending an updated quote within five minutes including dinner china, glasses, and passing service.
+- `2026-03-23T22:03:04Z` | Katrina Browchak | follow_up | Just give me like 10 mins and I will call you
+- `2026-03-23T21:11:36Z` | Sula Sleiman | send_tasting_details | Okay. Okay. I'll take note of that before I let you go. Just to let you know that we have a tasting fee of $35 per person. I'm gonna send you an email with the tasting details together with the link to register for the tasting also. Okay. So whenever you guys decided to join us.
+- `2026-03-23T21:07:41Z` | Gicele Britto & David- Wedding | send_menu | Okay, yeah, we can do both. Okay. Mashed potatoes, baked potatoes. I will put some sample options for you guys. Just, you know, a couple of suggestions. But I will also send you the full menu so you guys can choose.
+- `2026-03-23T21:07:41Z` | Gicele Britto & David- Wedding | send_quote | But we have a lot of options. I will send you an email with our menu attached, and then you'll be able to see we have a lot of things. So you guys can choose anything you would like and then I can add it to your quote.
+- `2026-03-23T21:07:41Z` | Gicele Britto & David- Wedding | send_quote | So I will send you the quote a little bit later today. I will take about 30 minutes to an hour to put it all together. And what is the best email for me to send it?
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | send_quote | Okay. Okay, that's fine. I will send you the updated quote, and then you can present it to them, but with more accurate numbers this time.
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | send_quote | Yeah. Okay, that's great, Giselle. All right. Thank you so much. I will send you the update quote by today, and I will call David to discuss the details.
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | send_quote | Okay, perfect. Thank you so much, Giselle. Well, I'll keep. I'll keep in the loop in regards of the details for. For the wedding as well. I will send the quote to both your emails so you'll be up to date. Okay.
+- `2026-03-23T20:46:59Z` | Gicele Britto & David- Wedding | follow_up | Thank you Gicele, I'll call you now
+- `2026-03-23T20:24:56Z` | Sula Sleiman | follow_up | Okay, sure. I'll call you back.
+- `2026-03-23T19:06:22Z` | Cee Cedeño | follow_up | Okay. All right, I'm gonna call Rodrigo, talk to him, and understand exactly how to get this done, and I'll call you back as soon as I have an answer. Is that okay?
+- `2026-03-23T19:06:22Z` | Cee Cedeño | follow_up | All right, let me do my thing over here, and as soon as I have all the information, I'll call you guys.
+- `2026-03-23T16:47:56Z` | Luciane Sena | follow_up | I'm gonna tell him to call you back. Okay.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | send_menu | What allergies you have. You are able to come because we prepare for you to come so that you can taste and you can go through this experience even though you have allergies. I mean, hey, you send me. You send me an email, Andre, I am allergic to this, this, and this. And I'll send that to this chef. And when the chef is preparing the meal, yours will definitely be different. We're going to have menus right there for you to see everything. That's the ingredients list and everything. And we can di
+- `2026-03-23T13:41:09Z` | Sula Sleiman | follow_up | Not yet, I will call you later when I have the quote ready.
+- `2026-03-23T13:38:08Z` | Sula Sleiman | send_quote | I'll go ahead and create your quote now.
+- `2026-03-20T17:09:15Z` | Katrina Browchak | follow_up | I will call you on Monday, would that work?
+- `2026-03-20T14:03:33Z` | Nefar Moran | send_tasting_details | Mail.com. i'm gonna send you the tasting details so you guys can talk about it. Okay.
+- `2026-03-19T20:14:41Z` | +1 888-535-7661-LIKELY SCAM | follow_up | I'm gonna ask my manager to call you back on this number. Okay?
+- `2026-03-19T19:15:42Z` | Anastasia Friar | send_tasting_details | March 29th at 2:00pm It's a Sunday. Okay, let me send you the pasting link, registration link.
+- `2026-03-19T18:49:14Z` | Glisel Cepeda Guilbe | send_tasting_details | Fitchburg, Mass. Let me send you the tasting details.
+- `2026-03-19T18:49:14Z` | Glisel Cepeda Guilbe | send_quote | Sales team committed to sending rice pictures and revised 100-guest quote after registration confirmation.
+- `2026-03-19T16:26:36Z` | Gillian Braley | send_menu | I have here Your email is Gillian Braley1gmail.com. I'm gonna send you our menus for you to choose to incorporate into your chosen package.
+- `2026-03-19T16:26:36Z` | Gillian Braley | send_menu | I'm gonna send you right now an email with our menus and appetizers. You might want to add some.
+- `2026-03-19T16:26:36Z` | Gillian Braley | send_menu | Committed to sending menus and appetizer options via email for Gillian to review with her son and fiancée in West Virginia.
+- `2026-03-19T14:54:22Z` | Ingrid - Brazilian | follow_up | I'm gonna ask her to call you back. Can I have your name before I forget?
+- `2026-03-18T22:01:40Z` | Sandi | send_menu | Okay, great. Great question. How about this? I'm gonna send you our menus but I'd also like to invite you guys to come for a tasting. That way you can have a taste of all our offerings. How's that sound to you?
+- `2026-03-18T22:01:40Z` | Sandi | send_tasting_details | I'm gonna send you the tasting details. It will be on March 29th at 2:00pm you can, you know, bring as many guests as you want for the tasting. It will be in a group setting. Just imagine you guys are going to attend the tasting and you are the guests. Okay.
+- `2026-03-18T22:01:40Z` | Sandi | send_menu | For the menus. I'm gonna send you our details. I mean our menus. Actually we are a Brazilian experts cuisine so more likely on having like a steaks, barbecue menus, something like that. But let me send you our menu so you can, you know, it's a great thing to explore actually.
+- `2026-03-18T21:13:55Z` | Rachael Corbitt | send_tasting_details | Yeah. I'm calling and reaching out to you to invite you to one of our upcoming tasting events. Are you guys interested?
+- `2026-03-18T21:13:55Z` | Rachael Corbitt | send_tasting_details | Yeah. Let me send you the tasting details then. Okay. Oh, by the way, before I forgot.
+- `2026-03-18T21:13:55Z` | Rachael Corbitt | send_tasting_details | There is on the link that I'm. On the email that I'm about to send, there is a registration link. There is a fee of $35 per person. Would that be okay with you guys?
+- `2026-03-18T20:55:14Z` | Debora Lopes | send_menu | Just want to let you know it's two agreements for you to sign. Okay? One for the bar, one for the food. And then I'm also going to send you this quotes. And then, you know, you can nudge me here whenever you want to have a change, like the number of the guests, the menus or anything. Okay.
+- `2026-03-18T20:04:38Z` | Glisel Cepeda Guilbe | follow_up | Okay. The deluxe package. Sure. I'm gonna create a code with everything included. Then can I call you back?
+- `2026-03-18T17:15:00Z` | Luciane Sena | follow_up | How about let me drop the call and I'm gonna check with the owner himself if he's available to call you now. Would that work for you?
+- `2026-03-17T21:40:58Z` | Sara Cleary-Rayball | send_quote | So I'm gonna create you a quote for the buffet. We have three packages.
+- `2026-03-17T21:40:58Z` | Sara Cleary-Rayball | send_quote | Sarah. Yes. @yahoo.com. i'm gonna send you the quote on this email and also the tasting details. Okay.
+- `2026-03-17T21:32:53Z` | Joy Newman | send_tasting_details | Okay, I'm gonna send you the tasting details. Yes, the tasting details. It will be in a group setting, so you will meet other, you know, clients, couples exploring catering as well. So just imagine you guys are going to attend the wedding and you are the guest. Okay. That is our best setup to show you not just the food, but also our services. Okay. We have a small fee of $35 per person. But no worries because two tasting fees or $70 will be credited back to you when you decide to book with us.
+- `2026-03-17T20:10:48Z` | Nicole Goncalves | send_menu | Because I'm gonna send you our packages and menus.
+- `2026-03-17T19:58:17Z` | Megan Reed | follow_up | I see. Yeah. Because actually our boss, like the CEO of the company is wanting to get in touch with you. She's gonna be available. I'll tell her because she didn't get a leaving out you but he can't reach you this past few days but yeah, I'll tell her that you're available. When is the best time to call you then?
+- `2026-03-17T19:58:17Z` | Megan Reed | follow_up | Okay, I'll ask to call you back tomorrow then to the same number?
+- `2026-03-17T19:58:17Z` | Megan Reed | follow_up | Okay, yeah, sure I'll tell him to call you tomorrow at then.
+- `2026-03-17T18:26:20Z` | Nicole Goncalves | follow_up | I'll call you at 4 pm then.
+- `2026-03-17T15:38:03Z` | Megan Reed | follow_up | But I'll have Rodrigo, the owner, to get in touch with you. We've actually trying to reach out to you. I mean, to reach you. However, we're always being routed to this voicemail. Hopefully you can give us a call back or maybe send us a text message. Yeah, that was definitely it. Thank you.
+- `2026-03-17T14:47:48Z` | New England Church - Pastor Leandro Pastor Rafael | follow_up | Hi, my name is Kathleen. I'm calling from Comicato, trying to reach out to you to clarify some information about the upcoming event this coming March 27th.
+- `2026-03-16T16:00:30Z` | Blessin Premy | send_tasting_details | Okay, sure. I'm gonna send you the tasting details, the address and also the. I'm gonna send you a link to register. Just use a code of VIP for.
+- `2026-03-16T13:23:28Z` | Betty Manalac | follow_up | I'll call you later at 1 pm.
+- `2026-03-15T15:02:49Z` | Allison Caranci | send_tasting_details | So let me just send you the invitation of the tasting and the link for you to register. Also one more thing. For the registration, There is a $35 registration fee per person, but of course that will be credit back to your final invoice once you book with us for up to two persons. So most couples are just like free once you book with us. But of course you can bring as many guests as you would like. So aside from you two, is there anyone else who will be joining.
+- `2026-03-14T20:20:28Z` | shilpa | send_tasting_details | Okay, so what I will do is I will send you an invitation with the registration form for you to register for the tasting. And then for now, I will be sending you the sample code of the three. The three packages that we have. So you have something to review. And once you have registered to our tasting, please let me know so I can add you to our list. Okay.
+- `2026-03-14T20:20:28Z` | shilpa | send_menu | Okay, perfect. So, yeah, I will send you the invitation shortly and then also the codes for the three. And I will also send you the menus so you can look for the vegetarian options, for the meat options and everything included in there for the detailed menu. You. Awesome, awesome. So yeah, I hope to hear back from you again earlier this week about the tasting. If you two can come so I can add you to our guest list. Okay.
+- `2026-03-14T20:20:28Z` | shilpa | send_menu | Like a real plate, not the disposable, that one has an upcharge. So what about instead of creating a lot of codes for you, what about I will send you the menus and the packages instead on your email and then once you have a chance to look of which one you'd like to get or which package you think would align best for this birthday party that you're planning and then you can tell me which package and then we can create a code. Would that work?
+- `2026-03-14T15:46:57Z` | Steph Martin | send_menu | Yes, actually what I actually I want to help you. I. What I'll do is if you could provide me an email, your email and I will send you our packages and menu options. So once you have a chance to talk to your fiance.
+- `2026-03-14T15:46:57Z` | Steph Martin | send_menu | Okay, got it. So, yeah, I will just create a code here short, and I will send it to you shortly along with our menu options that you can choose from. Okay.
+- `2026-03-13T21:38:33Z` | Mariana Cortes | send_menu | Got it. So thank you so much, Maria. I will get back to you maybe today or later or tomorrow about the answer for the questions. But for now, I will send you a code shortly about the full buffet with the standard menus.
+- `2026-03-13T18:12:36Z` | Johanna Rivera | send_menu | Or I'm gonna send you the one with the appetizers so you can look at all of our appetizers. And I'm gonna send you also our menus and prices and some of great information. So I just sent you a couple of emails. If you could take a look. It should come from Andre Raw. That's me. Take a look on your spam. It could also.
+- `2026-03-12T22:12:10Z` | Joel Event Planner | send_tasting_details | I will invite you to our next tasting!
+- `2026-03-12T18:44:43Z` | Cristiana Ruas | send_quote | I'm gonna send this to you, but okay, this quote includes staffing cost.
+- `2026-03-12T16:03:11Z` | Vanounou Vanessa | follow_up | All right. Hey, Vanessa. Hey, Ron, I'll call you in a second. Okay.
+- `2026-03-12T16:03:11Z` | Vanounou Vanessa | send_quote | All right, I'm gonna send you. I'm gonna send you the information about the tasting now over your text message. You should within a few seconds, I'm gonna. I'm gonna go make that quote for you so you can see some. Some prices in front of you. As soon as you say, okay, let's reserve a table. I'll send you a link, a payment link. You make that payment, I'll reserve the table for the 29th, and we'll take it from there.
+- `2026-03-12T00:01:54Z` | Eddaliz Viola | send_quote | Let me send you the revised quote so you can have it when you talk to your husband.
+- `2026-03-11T23:53:40Z` | Moses Mugwanya | send_tasting_details | I see. Okay. I'm gonna send you the next tasting dates. Okay.
+- `2026-03-11T23:53:40Z` | Moses Mugwanya | send_quote | Committed to sending quote and explanatory video to mosesmug1daSn.com for family review.
+- `2026-03-11T22:29:12Z` | Karla Ferreira | send_menu | I'll send you the menus as well.
+- `2026-03-11T21:41:43Z` | Lisa Emond | send_menu | Okay, sure. I'm gonna send you our menu. You might be open to attend a tasting.
+- `2026-03-11T21:41:43Z` | Lisa Emond | send_menu | Let me send you our full menu. Okay.
+- `2026-03-11T21:41:43Z` | Lisa Emond | send_menu | Okay, I'm gonna send you. I'm gonna add you to our events calendar. I'm also gonna send you a catering agreement for you to sign. No worries about the final menu.
+- `2026-03-11T20:30:15Z` | Eddaliz Viola | send_menu | Okay, so this is what I'm gonna do. I'm gonna create you a code and I'm also gonna send you our menus for you to, you know, choose your options to incorporate into your chosen package. Okay. You have to choose two main course, three sides and a salad. It's either a garden or cesar. So for 10 guests and drop off, how about bar service or drinks? Are you planning to have one as well?
+- `2026-03-11T18:34:10Z` | Matthew Yorko | send_tasting_details | I'm gonna send you our. Actually, I'm gonna check with my manager for our next tasting dates for next month, April or May. Then I'm gonna send it to you.
+- `2026-03-11T16:10:17Z` | Karla Ferreira | send_menu | I'm gonna. I'm gonna. I'm gonna send you our menus. Okay. Together with the code. I'm gonna create the code with, you know, example menus only just for me to generate the numbers or.
+- `2026-03-11T16:10:17Z` | Karla Ferreira | follow_up | All right, how about this? I'm gonna create you two coats, deluxe and supreme. And then can I call you back to discuss this over with you? Oh, how about this?
+- `2026-03-11T16:10:17Z` | Karla Ferreira | follow_up | All right. All right. I'm gonna call you again once I have it ready. Okay.
+- `2026-03-11T16:10:17Z` | Karla Ferreira | send_quote | Tony will create quote codes, send menus, and deliver Loom video explanation by 2-3pm for client review.
+- `2026-03-11T16:10:17Z` | Karla Ferreira | send_quote | Tony will create two quote codes for the deluxe and supreme packages and send sample menus.

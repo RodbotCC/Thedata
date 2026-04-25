@@ -1,0 +1,114 @@
+# Blockers Overview
+
+- Total blockers / concerns: `534`
+
+## Categories
+- missing_information: 3
+- guest_count_or_minimum: 12
+- pricing_pressure: 134
+- schedule_or_availability: 31
+- logistics_or_venue: 178
+- decision_dependency: 172
+- scope_change: 4
+
+## Latest Examples
+- `2026-03-26T18:16:11Z` | Gillian Braley | missing_information | Is there a choice of entrees and sides I can look at ?
+- `2026-03-26T17:40:40Z` | Sue Tetuan Tavares | guest_count_or_minimum | I know we need a minimum and I'd like a variety of dishes so if you have any other suggestions please let me know.
+- `2026-03-26T16:56:15Z` | Anad & Daniel | pricing_pressure | Im.sorry Andre but your offerings simply aren't in our budget range!
+- `2026-03-26T13:17:22Z` | Karine Carlson | schedule_or_availability | Yeah, we cannot make this Sunday, but maybe next time.
+- `2026-03-26T13:17:22Z` | Karine Carlson | logistics_or_venue | You just start looking for a venue and everything. We just want to, like, get everything cleared. We're gonna look for two venues this week, and we'll have more idea. One is a barn, and the other one, it's a country club. So we will have to, like, decide, but we're just getting information right now.
+- `2026-03-26T13:17:22Z` | Karine Carlson | decision_dependency | For the first time. Yes. And I got, like, very excited about it. And so I mentioned to my fiance that you guys are amazing. And. And we are both Brazilian, so we want to.
+- `2026-03-26T13:17:22Z` | Karine Carlson | pricing_pressure | Oh, okay. Let me ask you a question. Do you have a price change change for kids and adults? How does that work?
+- `2026-03-26T11:09:50Z` | Gillian Braley | pricing_pressure | I will review and look at any upgrades : how much is the recommended upgrade for the food warming dishes ?
+- `2026-03-26T11:09:50Z` | Gillian Braley | schedule_or_availability | When is the tasting event ?
+- `2026-03-25T21:46:53Z` | Pamela Tsui | logistics_or_venue | Pamela confirmed that she has also secured a venue for her event.
+- `2026-03-25T21:44:15Z` | Sylvia | pricing_pressure | Yes. And unfortunately, it's way out of budget at the moment.
+- `2026-03-25T21:44:15Z` | Sylvia | pricing_pressure | That is just really out of our budget.
+- `2026-03-25T21:44:15Z` | Sylvia | decision_dependency | With my husband. See where we fall.
+- `2026-03-25T21:44:15Z` | Sylvia | pricing_pressure | Discussed budget constraints with Sylvia's maximum catering budget of $3,000 for her wedding.
+- `2026-03-25T21:44:15Z` | Sylvia | pricing_pressure | Proposed switching from churrasco package to buffet service to fit within budget.
+- `2026-03-25T21:07:48Z` | Isabel Fernandez | logistics_or_venue | Ele nos prometeu a 4 opção de carne e o setup do bar free!
+- `2026-03-25T20:52:44Z` | Alexandra Bernardez | logistics_or_venue | Customer will provide venue address via text and confirm final menu selections.
+- `2026-03-25T20:52:44Z` | Alexandra Bernardez | logistics_or_venue | Comeketo Catering will bring and operate their own grill to cook food on-site at the venue.
+- `2026-03-25T20:33:44Z` | Karine Carlson | decision_dependency | I will be with my fiance
+- `2026-03-25T19:09:51Z` | Luciane Sena | pricing_pressure | Ok. Então a gente vai ter as frutas e o meu sogro também provavelmente vai trazer aqui essa herma, essa coisa toda. Garden Salad, ali, a falada que a gente tinha falado de beterraba, né? E daí o Kids Menu, Rental and Upgrade. Esse aqui, eu acho que eu vou incluir o... Ah, é Free, já está incluso, né?
+- `2026-03-25T18:52:05Z` | Jeanine Oliveira | decision_dependency | So it's a 16th birthday party that I'm having for my son, and I just was.
+- `2026-03-25T18:52:05Z` | Jeanine Oliveira | scope_change | Confirmed drop-off only buffet-style service delivery requested by client.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | pricing_pressure | We don't have a specific type of food we're looking for. I just kind of want to see what your menu is, like, and, like, what you're good at. You know, we don't need bar services or anything. We do need, like. Well, we're interested in plated and buffet. I would prefer plated, but it just really depends on what the price would be and, like, what you need to do with the venue. We do have the venue picked out and the date.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | So the venue doesn't really have, like, a commercial kitchen to use. Is that okay?
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | So what is the pricing with the service staff?
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | Okay, and then how many staff?
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | Yeah. Well, we live in Willimanta, Connecticut, but the venue is going to be in Renton.
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | So are you gonna send me an email with the venue and all that?
+- `2026-03-25T18:35:37Z` | Efua Bondzie | logistics_or_venue | Scheduled mandatory venue visit by CEO/owner 1-2 months prior to wedding to assess logistics and equipment needs.
+- `2026-03-25T18:20:16Z` | Brooklyn whitmyer | logistics_or_venue | The tentative venue is Jones River Trade Center in Kingston, though they are still confirming outside catering options.
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | pricing_pressure | Okay. Okay. So what is the price difference?
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | scope_change | Of what we talk about and then let me know what it would be if it was drop off only. Could you give me two quotes?
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | pricing_pressure | But if that is out of our price range, then we can certainly do a drop off. But I want to make this work with you guys. So I've seen you guys have great reviews.
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | logistics_or_venue | Discussed full-service versus drop-off catering options, with Holly preferring full-service for a more formal presentation using stainless steel chafing dishes.
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | logistics_or_venue | Requested two separate quotes comparing full-service and drop-off-only pricing for 12-person event.
+- `2026-03-25T15:29:25Z` | Sue Tetuan Tavares | pricing_pressure | Holly expressed preference for full-service but indicated willingness to adjust to drop-off service if full-service pricing exceeds budget.
+- `2026-03-25T15:24:26Z` | Sue Tetuan Tavares | guest_count_or_minimum | Okay, so I want to make sure that this is worth your while, too, because it's very small. There's 12 people. And I understand you have a $500 minimum, which is fine.
+- `2026-03-25T15:24:26Z` | Sue Tetuan Tavares | guest_count_or_minimum | Confirmed the $500 minimum is acceptable and agreed to send detailed menu for Holly's review.
+- `2026-03-25T15:15:44Z` | Michelle Pastrana | decision_dependency | Unfortunately, we're not gonna be able to make it on sunday and my husband has found another catering service.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | decision_dependency | No, it's. So we're putting this together for my daughter in law and.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | decision_dependency | It is my son's aunt from a different side of the family. She had called and spoke or had emailed Tony and just forwarded me his email to say that and let him know that I would be calling.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | decision_dependency | No, we're. My husband's family is from Portugal.
+- `2026-03-25T12:16:08Z` | Sue Tetuan Tavares | schedule_or_availability | Collected client contact information and confirmed availability until 2:00 PM.
+- `2026-03-25T11:54:35Z` | Gillian Braley | guest_count_or_minimum | Hi , We have actually reduced the number to 40 and the date is now August 22 2026.
+- `2026-03-25T11:54:35Z` | Gillian Braley | guest_count_or_minimum | Is that too small for you ?
+- `2026-03-25T11:54:35Z` | Gillian Braley | logistics_or_venue | We don’t need the bar service or staff to stay for the event .
+- `2026-03-25T00:45:25Z` | Karine Carlson | decision_dependency | I need to see my fiancé's schedule for next week
+- `2026-03-24T23:48:03Z` | Gillian Braley | scope_change | There have been a few changes .
+- `2026-03-24T23:48:03Z` | Gillian Braley | guest_count_or_minimum | Is that too small for you to cater ?
+- `2026-03-24T23:48:03Z` | Gillian Braley | logistics_or_venue | Also do you have to staff the event or can you set up and then staff leave ?
+- `2026-03-24T23:31:44Z` | Sara Melanson | decision_dependency | It’s just hard for me and my fiancé to get the same day off together.
+- `2026-03-24T16:04:38Z` | Sara Melanson | decision_dependency | My fiance's family is Spanish. So, you know, I want to. I want to get a little of them. And also.
+- `2026-03-24T16:04:38Z` | Sara Melanson | pricing_pressure | Confirmed full-service staffing with buffet attendants for four hours at $3 per person additional cost.
+- `2026-03-24T16:04:38Z` | Sara Melanson | decision_dependency | Sarah's fiancé's family is Spanish and her family is American, so she wants both cultural food elements represented.
+- `2026-03-24T15:40:39Z` | Earline Campbell Thompson | logistics_or_venue | Buffet style this is my 16th wedding anniversary the venue is in upper Darby pa
+- `2026-03-24T15:26:16Z` | Dulce Almeida | decision_dependency | I don't know. I have to ask my daughter if she can. I'll ask her and then I'll. I'll give you a call back and see if that's. That works for her. Okay.
+- `2026-03-24T15:26:16Z` | Dulce Almeida | logistics_or_venue | Discussed a 50-60 person backyard wedding at brother's home in Brockton, Massachusetts with pergola and tent setup.
+- `2026-03-24T15:26:16Z` | Dulce Almeida | schedule_or_availability | Dulce to confirm tasting event availability after consulting with daughter and will follow up with call.
+- `2026-03-24T15:05:37Z` | Dulce Almeida | decision_dependency | That's for my daughter's wedding!
+- `2026-03-23T22:10:33Z` | Katrina Browchak | pricing_pressure | Yeah, I was going to ask a few questions about that. I was wondering first, what is the price per.
+- `2026-03-23T22:10:33Z` | Katrina Browchak | pricing_pressure | Discussed upgrade from disposable plates to real china dinnerware at $6.50 per person with bussing included.
+- `2026-03-23T21:11:36Z` | Sula Sleiman | pricing_pressure | Now? I'm. I'm asking you for the bar. If you. If we make this change without the wine, how much will be the cost?
+- `2026-03-23T21:11:36Z` | Sula Sleiman | logistics_or_venue | Okay. And for the food, you put 150 for a garcon, the staff, somebody to. To serve. That's.
+- `2026-03-23T21:11:36Z` | Sula Sleiman | pricing_pressure | Yeah, I understand. But it's the same price for wine and beer. The soda.
+- `2026-03-23T21:11:36Z` | Sula Sleiman | schedule_or_availability | Oh. So if you can send me the address and the hour, I will, I will, I will check my availability to make it so. Yeah, it's. It's important to check about how. How you serve and you can have a better idea about what we gonna need. Also.
+- `2026-03-23T21:07:41Z` | Gicele Britto & David- Wedding | pricing_pressure | Yeah, we just. Just want to. What do you call it? Get. Get the. Make sure we just agree on the price.
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | logistics_or_venue | Depending. Depending on the venue. Some venues are a little bit different, so we'll keep it for now. It's fine. Yeah.
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | logistics_or_venue | Client approved buffet style and pricing but requested BYOB instead of cash bar, keeping bartending staff option pending venue confirmation.
+- `2026-03-23T20:47:30Z` | Gicele Britto & David- Wedding | logistics_or_venue | Venue not yet secured, possibly Littleton Massachusetts, with board approval needed at April meeting before May finalization.
+- `2026-03-23T20:45:20Z` | Gicele Britto & David- Wedding | decision_dependency | Hi, you can call my fiancee about the June Wedding at 617-678-8438, David
+- `2026-03-23T19:23:10Z` | Glisel Cepeda Guilbe | decision_dependency | I will talk to you later
+- `2026-03-23T16:47:56Z` | Luciane Sena | decision_dependency | I really. I was talking to Andre because I wanted to go over the menu again, and I wanted to add a couple things, too.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | It was awesome. Although I have to say, my husband and I were so full by the end of the tasting. We. We had so much. We're like twofold to make a decision in the moment, but it was great.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | And then I think my husband wanted the garlic bread as a third side.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | pricing_pressure | And then if we say we only did the two meat options and then had like, maybe 10 vegetarians there. What Would the cost for that be.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | Okay. Okay, great. Well, this is great information. We're definitely, definitely in for that July 25th date. But I want to run these numbers by my husband.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | pricing_pressure | And can I get back to you with, like, a definite yes and then figure out how to make a deposit, like, by the end of the day today?
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | Yeah. I'll send this information all along to my husband.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | pricing_pressure | Client will confirm with husband by end of day and submit deposit to finalize booking.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | logistics_or_venue | The event is scheduled for July 25th, and the venue currently has two spots remaining.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | Elise will review the pricing and estimates with her husband and confirm by end of business day today.
+- `2026-03-23T15:35:56Z` | Elise Lamoreaux | decision_dependency | The Event Consultant will send an updated estimate to Elise for her husband's review.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | And it's for my daughter. She's turning 15, so.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | pricing_pressure | It's actually at our church. It's gonna be at our church. It fits about like 200 people. So we're having a. We think we're having around 150, but we're not quite sure yet. We have to still figure that out. But I just wanted to, like, reach out and come up with like, you know, at least like an idea of what it would cost.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | Yeah, it's about like 150 people. I think that's what my husband.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | Yeah, my. My. My daughter wanted Brazilian food, so that's why I called you guys.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | pricing_pressure | Well, my husband, I think got a couple names for different caterers. Like, I just told him that I talked. I called you guys. Like, I reached out for a quote. So we're just in the process of trying to pick out a caterer at this point. We're not like confirming anything yet, but, like, you know, we're just kind of looking to see how much it would be, how much, you know, what it would cost and all that. So.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | Yeah. I have to ask my husband, obviously, if he's interested in doing that, but I don't think we have anything Sunday that I can think of, but I'm not sure. I haven't talked to him yet, so.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | I think you said it was $35 for each person that is tasting the food, but I have a lot like I said, I have a lot of allergies, so I'm not sure if I'm going to be one of those people, but definitely my husband and my daughter.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | decision_dependency | Yeah. Let me talk to my husband tonight when he gets off of work and see like, if he wants if we're available on Sunday at 2.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | schedule_or_availability | Scheduled follow-up call for tomorrow afternoon after client discusses tasting availability with husband.
+- `2026-03-23T15:15:00Z` | Michelle Pastrana | logistics_or_venue | The church venue can accommodate approximately 200 people, with an expected attendance of around 150 guests.
+- `2026-03-23T14:53:47Z` | Elise Lamoreaux | pricing_pressure | I would be curious about the cost for some appetizers, not necessarily passed but an appetizer station maybe
+- `2026-03-23T10:34:41Z` | Elise Lamoreaux | pricing_pressure | Sorry for the delay again, let's find a time to talk today about dishes and total cost again
+- `2026-03-23T03:29:06Z` | Nichole Cross | pricing_pressure | Please send your contract over so legal can sign it and make the deposit.
+- `2026-03-22T19:05:59Z` | Heli Parekh | logistics_or_venue | Andre noted that Heli does not yet have a venue selected and indicated Comeketo Catering might have a suitable option.
+- `2026-03-22T12:22:12Z` | Cheryl Rank | pricing_pressure | 3. Can you please let me know the cost of the dinner clean-up, should I wish to add this.
+- `2026-03-22T00:43:38Z` | Rebecca Almeida | pricing_pressure | We are just trying to weigh our options and make a budget.
+- `2026-03-21T15:56:27Z` | Gicele Britto & David- Wedding | pricing_pressure | And my fiancé spoke with Rodrigo to come up with a price for saturday June 6th with alcohol open bar.
+- `2026-03-21T15:47:06Z` | Kristen Rodriguez | pricing_pressure | Yeah, that's interesting. That's an interesting thought. That's also on the table. Like I said, I'm kind of like in the midst of trying to create the flow, but I think that's also a great option. I'm trying to essentially not have them incur more cost than I think they have initially planned for. So I just wanted to see what from the current menu can be extrapolated to essentially still create a different flow while also honoring what she already has. Right. So it sounds like they already have a

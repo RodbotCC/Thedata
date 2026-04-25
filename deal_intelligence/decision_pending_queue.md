@@ -1,0 +1,52 @@
+# Decision Pending Queue
+
+- Total decision-pending leads: `47`
+
+## Top Rows
+- `120` | Nichole Cross | 🔥 05. Quote Phase | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `119` | Ababa | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `114` | Kristen | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `108` | Anastasia Friar | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `108` | Cheryl Rank | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `104` | Sue Tetuan Tavares | 📲 02. Asking For Quote | budget_risk | Rescope the package, trim service levels, or present a lower-cost path.
+- `102` | Sabrina Oliveira | 🔥 04. Attended Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `101` | Gleiziane Dias | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `94` | Gillian Braley | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `94` | Nicole Goncalves | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `89` | Nicole Walker | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `89` | Rachel Sawyer | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `89` | Gicele Britto & David- Wedding | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Moses Mugwanya | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Tais Riley | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Sara Cleary-Rayball | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Joy Newman | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Sandy B | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `86` | Alexa Rodriguez | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `86` | Rebecca Almeida | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Dalcione Reis | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Rick Kardos (Trinity Bible Church) | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `80` | Ingrid - Brazilian | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `80` | Jeanine Oliveira | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `79` | Vickianna Alexis- Wedding planner | 💼🎉 Converterted to B2B | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `79` | Makenzie & Ronald | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `78` | Sylvia | 🔥 05A. Quote sent | budget_risk | Rescope the package, trim service levels, or present a lower-cost path.
+- `76` | Yuderka Fernandez | 📲 02. Setting Tasting Appointment | venue_pending | Lock the venue decision or at least get catering-permission clarity before revising scope.
+- `76` | Karine Carlson | 📲 02. Asking For Quote | venue_pending | Lock the venue decision or at least get catering-permission clarity before revising scope.
+- `76` | Carey Guenzel Galasso | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Glenn Celado & Eloida | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `74` | Mariah Gerstel | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `73` | Luciane Sena | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `73` | Lisa Emond | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `71` | Cyprian Odeke | 💲 09. Fully Paid | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `69` | Cee Cedeño | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `68` | Dulce Almeida | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Andressa | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Lauren Paine | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Gianna DeFusco | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `67` | Debora Lopes | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `65` | Elise Lamoreaux | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `64` | Matthew Yorko | 📲 02. Setting Tasting Appointment | venue_conflict | Clarify venue catering rules and whether Comeketo can still serve the event.
+- `64` | Sara Melanson | ⬜ 00. Prospect | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `58` | Paul | ⬜ 00. Prospect | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `46` | Susan Byrnes Withemi | ✅ 10. Job Complete | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `33` | New England Church - Pastor Leandro Pastor Rafael | ✅ 10. Job Complete | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.

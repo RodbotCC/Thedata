@@ -1,0 +1,105 @@
+# Operator Action Board
+
+- Total active deal sheets: `135`
+
+## Top Rows
+- `120` | Nichole Cross | 🔥 05. Quote Phase | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `119` | Ababa | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `114` | Kristen | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `109` | Meghan Pingeton | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `108` | Anastasia Friar | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `108` | Cheryl Rank | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `104` | Sue Tetuan Tavares | 📲 02. Asking For Quote | budget_risk | Rescope the package, trim service levels, or present a lower-cost path.
+- `102` | Alessandra Gaspar | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `102` | Sabrina Oliveira | 🔥 04. Attended Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `101` | Blessin Premy | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `101` | Mayara Morgana Silva | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `101` | Gleiziane Dias | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `100` | Efua Bondzie | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `100` | Brooklyn whitmyer | 🔥 05A. Quote sent | venue_conflict | Clarify venue catering rules and whether Comeketo can still serve the event.
+- `96` | Andreia DePina Moore | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `96` | Lazaro Silva | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `95` | Pascale Cadet | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `94` | Gillian Braley | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `94` | Yara Avalos | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `94` | Nicole Goncalves | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `94` | Valmir Paschoal | 💲 07. Paid 50% | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `94` | Glisel Cepeda Guilbe | 🔥 05A. Quote sent | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `91` | Allison Caranci | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `91` | theconnorscenter | 💼 01. Aware of us | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `90` | Saeddien Mejia | 🔥 04. Attended Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `90` | Sula Sleiman | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `89` | Julia Soares | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `89` | Nicole Walker | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `89` | Rachel Sawyer | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `89` | Gicele Britto & David- Wedding | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Moses Mugwanya | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Tais Riley | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Sara Cleary-Rayball | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Joy Newman | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Sandi | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Mireille Mfuta | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `88` | Sandy B | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `86` | Alexa Rodriguez | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `86` | Nefar Moran | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `86` | Rebecca Almeida | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `85` | Paula Faria Event Planner | 💼 01. Aware of us | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `85` | Mill 1 at Open Square | 💼 01. Aware of us | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `84` | Destiny Lemons Morris | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `83` | Ashley Hoeger | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Osilene - Gisele Decorations | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Hannah Goguen | 🔥 04. Attended Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Dalcione Reis | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `83` | Rick Kardos (Trinity Bible Church) | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `82` | Framingham History Center ,Village Hall in Framingham MA | 💼 00. Prospect | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `82` | José Pérez Cardona | 💲 07. Paid 50% | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `81` | WeddingPro - Patrick | 💼 00. Prospect | budget_risk | Rescope the package, trim service levels, or present a lower-cost path.
+- `81` | Wedding & Event Lighting- Jeff | 💼 01. Aware of us | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `80` | Ingrid - Brazilian | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `80` | Alexandra Bernardez | 📲 02. Asking For Quote | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `80` | Jeanine Oliveira | 🔥 05A. Quote sent | quote_outstanding | Send or revise the quote and ask for a concrete next-step decision.
+- `80` | Joel Event Planner | 💼 01. Aware of us | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `79` | Vickianna Alexis- Wedding planner | 💼🎉 Converterted to B2B | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `79` | Stone Garden | 💼🎉 Converterted to B2B | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `79` | Makenzie & Ronald | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `78` | Sylvia | 🔥 05A. Quote sent | budget_risk | Rescope the package, trim service levels, or present a lower-cost path.
+- `77` | Alice Mensah | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `76` | Yuderka Fernandez | 📲 02. Setting Tasting Appointment | venue_pending | Lock the venue decision or at least get catering-permission clarity before revising scope.
+- `76` | Karine Carlson | 📲 02. Asking For Quote | venue_pending | Lock the venue decision or at least get catering-permission clarity before revising scope.
+- `76` | LIA + TEAM @ DIVINE STONE WORKS | 💼📲 03. Tasting Done | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Miguel Lopez Rivera | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Iaponira DaSilva | 🔥 04. Attended Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Carey Guenzel Galasso | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Nicole Gilford & Richard Desharnais | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Rachael Corbitt | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Elizabeth Comtois | 🔥 03. Booked for Tasting | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Ketsia Leroy | 📲 02. Setting Tasting Appointment | tasting_pending | Get the tasting date confirmed or convert the conversation into a decision-driving quote step.
+- `76` | Lucivania | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `76` | Glenn Celado & Eloida | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `76` | John Carlos Orellano- DJ | 💼🎉 Converterted to B2B | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `75` | Greylock Works | 💼🎉 Converterted to B2B | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `74` | Mariah Gerstel | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `73` | Luciane Sena | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `73` | Lisa Emond | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `71` | Kyla Brown | 📲 02. Booked Call | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `71` | Cyprian Odeke | 💲 09. Fully Paid | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `71` | Kristen Rodriguez | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `70` | Gisele Decorations and Events | 💼 05. Sent Many Referrals | booked_fulfillment_watch | Confirm logistics, headcount, and final payment timing for the booked event.
+- `69` | Cee Cedeño | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `68` | Dulce Almeida | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Andressa | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Betty Manalac | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `68` | Jill Leafer | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `68` | Jenna Dietenhofer | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `68` | Diana Paine | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `68` | Lauren Paine | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Gianna DeFusco | 🟩 01. Qualified | decision_pending | Get the real decision-maker into the loop and press for a decision deadline.
+- `68` | Sophie Kroeze | 🟩 01. Qualified | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `67` | Debora Lopes | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `66` | Wilma Marrero-Crespo | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `66` | Olivia Lowthian | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `66` | Mika Pierre | ⬜ 00. Prospect | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `65` | Simone Covino | ⬜ -00. Dormant (30 Days) | active_pipeline | Continue normal follow-up with the next milestone in mind.
+- `65` | Ross Popham | 💲 09. Fully Paid | won_pipeline_watch | Keep the booked deal visible and confirm there are no hidden fulfillment gaps.
+- `65` | Julianna Leiva | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
+- `65` | Elise Lamoreaux | 💲 06. Booked / Deposit 35% | contracting_or_deposit | Push contract/deposit across the line and confirm signature timing.
